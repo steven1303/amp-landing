@@ -1,19 +1,26 @@
 Untuk
 
+Bitly Convert
+===================
 login : https://curus88.net/
 daftar : https://curus88.net/account/register
 promosi : https://curus88.net/promotion
 whatsapp : https://api.whatsapp.com/send/?phone=639946313293&text&type=phone_number&app_absent=0
 telegram : https://t.me/kiranacurus88
 RTP Link = https://curus88.net/game/pgr/3
+=====================
 
+
+LandingPage
+========================
 domain = ?
 meta title = ?
 meta keyword = ?
 meta description = ?
+===========================
 
 
-
+Meta Format
 ========================================================================================
 <meta name="description" content="CURUS88 | Situs Judi Slot Online Terpercaya Cuan Terus"> 
 <meta name="keywords" content="Judi slot online, game online, judi slot, judi online terpercaya, judi slot 24 jam"> 
@@ -54,6 +61,11 @@ meta description = ?
 <link rel="canonical" href="https://www.curus88.net/">
 <meta property="og:title" content="CURUS88 | Situs Judi Slot Online Terpercaya Cuan Terus">
 <meta property="og:description" content="Situs judi slot online terpercaya dan terbaik cuan terus dengan permainan terlengkap seperti slot, live casino, judi bola, fishing, dan togel">
+
+
+check plagiarism
+=================
+https://www.check-plagiarism.com/id/
 
 
 
